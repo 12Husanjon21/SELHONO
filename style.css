@@ -159,6 +159,9 @@ form input {
   color: #CDA274;
   width: 778px;
 }
+form input:focus {
+  outline: none;
+}
 
 .like_card {
   display: flex;

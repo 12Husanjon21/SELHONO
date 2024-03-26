@@ -179,6 +179,9 @@ form {
         color: #CDA274;
         width: 778px;
     }
+    input:focus {
+      outline: none;
+    }
 }
 
 .like_card {
